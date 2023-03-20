@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541829086474",
+    "project_id": "u-chat-f5325",
+    "storage_bucket": "u-chat-f5325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541829086474:android:3177059758cf94975dcef3",
+        "android_client_info": {
+          "package_name": "com.dasumesh.uchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541829086474-546q25a2qttvmlb47kl7akugr0coe029.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDNM2bLNaDiDwGfWt5rT30tcS0ximwYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541829086474-546q25a2qttvmlb47kl7akugr0coe029.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
